@@ -1,0 +1,71 @@
+Updating 'Quoteboard':
+At revision 45036.
+:help
+
+Welcome to Gradle 1.10.
+
+To run a build, run gradle <task> ...
+
+To see a list of available tasks, run gradle tasks
+
+To see a list of command-line options, run gradle --help
+
+BUILD SUCCESSFUL
+
+Total time: 11.223 secs
+WARNING [Project: :] "packageName" is deprecated (and will soon stop working); change to "applicationId" instead
+WARNING [Project: :] "packageName" is deprecated (and will soon stop working); change to "applicationId" instead
+:preBuild
+:compileNameProductReleaseNdk UP-TO-DATE
+:copyNativeLibs UP-TO-DATE
+:preNameProductReleaseBuild
+:checkNameProductReleaseManifest
+:prepareNameProductReleaseDependencies
+:compileNameProductReleaseAidl UP-TO-DATE
+:compileNameProductReleaseRenderscript UP-TO-DATE
+:generateNameProductReleaseBuildConfig UP-TO-DATE
+:generateNameProductReleaseAssets UP-TO-DATE
+:mergeNameProductReleaseAssets UP-TO-DATE
+:generateNameProductReleaseResValues UP-TO-DATE
+:generateNameProductReleaseResources UP-TO-DATE
+:mergeNameProductReleaseResources UP-TO-DATE
+:processNameProductReleaseManifest UP-TO-DATE
+:processNameProductReleaseResources UP-TO-DATE
+:generateNameProductReleaseSources UP-TO-DATE
+:compileNameProductReleaseJava UP-TO-DATE
+:preDexNameProductRelease UP-TO-DATE
+:dexNameProductRelease UP-TO-DATE
+:processNameProductReleaseJavaRes UP-TO-DATE
+:validateMyConfigSigning
+:packageNameProductRelease UP-TO-DATE
+:zipalignNameProductRelease UP-TO-DATE
+:assembleNameProductRelease UP-TO-DATE
+:compileNameTestReleaseNdk UP-TO-DATE
+:preNameTestReleaseBuild
+:checkNameTestReleaseManifest
+:prepareNameTestReleaseDependencies
+:compileNameTestReleaseAidl UP-TO-DATE
+:compileNameTestReleaseRenderscript UP-TO-DATE
+:generateNameTestReleaseBuildConfig UP-TO-DATE
+:generateNameTestReleaseAssets UP-TO-DATE
+:mergeNameTestReleaseAssets UP-TO-DATE
+:generateNameTestReleaseResValues UP-TO-DATE
+:generateNameTestReleaseResources UP-TO-DATE
+:mergeNameTestReleaseResources UP-TO-DATE
+:processNameTestReleaseManifest UP-TO-DATE
+:processNameTestReleaseResources UP-TO-DATE
+:generateNameTestReleaseSources UP-TO-DATE
+:compileNameTestReleaseJava UP-TO-DATE
+:preDexNameTestRelease UP-TO-DATE
+:dexNameTestRelease UP-TO-DATE
+:processNameTestReleaseJavaRes UP-TO-DATE
+:packageNameTestRelease UP-TO-DATE
+:zipalignNameTestRelease UP-TO-DATE
+:assembleNameTestRelease UP-TO-DATE
+:assembleRelease UP-TO-DATE
+:copyApk UP-TO-DATE
+:submitSvn
+
+BUILD SUCCESSFUL
+
+Total time: 17.513 secs
